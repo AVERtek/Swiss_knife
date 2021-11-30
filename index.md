@@ -30,7 +30,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" camera-controls autoplay animation-name="Animation" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Victorinox_multitool_knife.usdz" alt="A 3D model of Swiss Army Knife" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls camera-orbit="0deg 0deg 100%" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" camera-controls autoplay animation-name="Animation" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Victorinox_multitool_knife.usdz" alt="A 3D model of Swiss Army Knife" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls camera-orbit="0deg 90deg 125%" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button> 
 </model-viewer>
